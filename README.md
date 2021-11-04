@@ -13,5 +13,5 @@ ofertada no [Centro de Formação de Professores][CFP] da
 Licenciatura em Matemática ou Química.
 A ideia é reunir aqui os repositórios dos semestres a partir de 2021.1.
 
-CFP: https://www.ufrb.edu.br/cfp/
-UFRB: https://www.ufrb.edu.br/portal/
+[CFP]: https://www.ufrb.edu.br/cfp/
+[UFRB]: https://www.ufrb.edu.br/portal/
