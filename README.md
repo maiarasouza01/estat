@@ -1,10 +1,10 @@
 <p align = "center">
-   <img> 
+   <img 
         width = "200px"
         align = "center"
         src   = "/img/stat_logo.png"
         alt   = "Estat"
-   </img>
+   >
    <h1 align = "center">
       Introdução à Estatística
    </h1>
