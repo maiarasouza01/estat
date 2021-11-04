@@ -2,7 +2,7 @@
    <img 
         width = "200px"
         align = "center"
-        src   = "/img/stat_logo.png"
+        src   = "/img/logo_estat.png"
         alt   = "Estat"
    >
    <h1 align = "center">
