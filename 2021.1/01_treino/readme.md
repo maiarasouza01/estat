@@ -12,3 +12,5 @@ Veja o exemplo.
 ## Lista de Participantes
 
 - coloque-aqui-seu-nome
+- Andrei Paraizo, Quimica 
+- 
