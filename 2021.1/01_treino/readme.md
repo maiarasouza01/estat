@@ -11,6 +11,5 @@ Veja o exemplo.
 
 ## Lista de Participantes
 
+- Andrei Paraizo dos Santos, Quimica 
 - coloque-aqui-seu-nome
-- Andrei Paraizo, Quimica 
-- 
