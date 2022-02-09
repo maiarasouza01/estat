@@ -12,5 +12,6 @@ Veja o exemplo.
 
 ## Lista de Participantes
 
+- Edivan dos Santos do Rosario, Quimica
 - Andrei Paraizo dos Santos, Quimica 
 - Maiara Jesus Souza, Química
