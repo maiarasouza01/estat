@@ -11,5 +11,6 @@ Além disso, deixem um espaço em branco entre seu nome e este sinal
 Veja o exemplo.
 
 ## Lista de Participantes
-- Maiara Jesus Souza, Química.
-- coloque-aqui-seu-nome
+
+- Andrei Paraizo dos Santos, Quimica 
+- Maiara Jesus Souza, Química
