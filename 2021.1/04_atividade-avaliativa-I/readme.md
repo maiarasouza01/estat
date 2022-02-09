@@ -1,9 +1,10 @@
 # Atividade Avaliativa I
 
-Coloquem o nome completo e o link corretamente.
+Coloquem o seu nome e o *link* da sua atividade, corretamente.
 
 ---
 
-nome | link
+nome | *link* 
+---  | ---
+Maiara Souza              | https://github.com/maiarasouza01/Atividade-Avaliativa
 Andrei Paraizo dos Santos | https://github.com/AndreiParaizo/01_Atividade-avaliativa
-Fulado de Abreu | [atividade](url)
