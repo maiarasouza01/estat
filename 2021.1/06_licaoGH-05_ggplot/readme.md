@@ -2,5 +2,5 @@
 
 nome | url
 ---  | --- 
-maiara souza| https://github.com/maiarasouza01/04_licaoGitHub
+Maiara  | https://github.com/maiarasouza01/li-o_05
 Andrei | https://github.com/AndreiParaizo/05_licaoGH
